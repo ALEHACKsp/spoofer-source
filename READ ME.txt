@@ -1,0 +1,5 @@
+run spoof.bat
+make sure secure boot off, no antivirus, and no anticheat like valorant enabled
+
+spoofer maked by gxth1.exe#6969
+give credits or gae
